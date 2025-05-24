@@ -16,10 +16,10 @@ I´m Systems and Computer Engineering student skilled in data analytics, softwar
 
 ## Development
 ![Logo](https://cdn-icons-png.flaticon.com/128/919/919854.png)
-
 ![Logo](https://cdn-icons-png.flaticon.com/128/919/919852.png)
 ![Logo](https://cdn-icons-png.flaticon.com/128/5968/5968292.png)
 ![Logo](https://cdn-icons-png.flaticon.com/128/16511/16511176.png)
+![Logo](https://cdn-icons-png.flaticon.com/128/919/919825.png)
 ![Logo](https://cdn-icons-png.flaticon.com/128/5968/5968267.png)
 ![Logo](https://cdn-icons-png.flaticon.com/128/9472/9472489.png)
 
