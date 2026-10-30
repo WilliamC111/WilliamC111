@@ -1,4 +1,5 @@
-![image] https://github.com/user-attachments/assets/2cb7dbbc-c2e1-44ac-8bfb-6ed4d2a331a1"
+![image] <img src="https://github.com/user-attachments/assets/2e741aab-6e08-4e50-9412-b81467e08dae" />
+
 
 
 ## Hiiii, I´m William👋
