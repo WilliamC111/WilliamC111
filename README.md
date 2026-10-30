@@ -1,4 +1,4 @@
-![image] <img width="1024" height="656" alt="image" src="https://github.com/user-attachments/assets/2cb7dbbc-c2e1-44ac-8bfb-6ed4d2a331a1" />
+![image] https://github.com/user-attachments/assets/2cb7dbbc-c2e1-44ac-8bfb-6ed4d2a331a1"
 
 
 ## Hiiii, I´m William👋
