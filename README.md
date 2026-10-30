@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2e741aab-6e08-4e50-9412-b81467e08dae" alt="William" width="200" />
-</p>
+<img width="1584" height="396" alt="Black and White Minimalist Professional LinkedIn Banner" src="https://github.com/user-attachments/assets/4bdabe6a-db32-4121-8f58-5d8b6ffd7259" />
 
 ## Hiiii, I´m William👋
 
