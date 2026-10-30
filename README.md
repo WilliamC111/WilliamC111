@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I´m Systems and Computer Engineering student skilled in data analytics, software design & development, and database management. Passionate about technology innovation and building disruptive solutions
+I´m Systems and Computer Engineering skilled in data analytics, software design & development, and database management. Passionate about technology innovation and building disruptive solutions
 
 
 ## 🛠 Tecnical Skills
